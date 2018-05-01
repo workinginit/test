@@ -8,5 +8,6 @@ public class ToxApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ToxApplication.class, args);
+		
 	}
 }
